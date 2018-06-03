@@ -35,7 +35,7 @@ public class AbcApp {
     }
 
     /**
-     * Initializes abc. d
+     * Initializes abc.
      * <p>
      * Spring profiles can be configured with a program arguments --spring.profiles.active=your-active-profile
      * <p>
